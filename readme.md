@@ -26,6 +26,7 @@ sudo vi /lib/systemd/system/script_service.service
 ```
 
 Paste this 
+- $your_path: full path directory of your script
 ```
 [Unit]
 Description=My Shell Script
